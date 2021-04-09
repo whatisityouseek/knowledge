@@ -6,37 +6,21 @@ categories:
   - redpill
 ---
 
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 5.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
-### **“Where Have All The Good Men Gone?”**
-
 **Disclaimer**: This essay asserts characteristics of men and women on average, which when looked at through the lens of markets, shows the dynamics of the markets.  No statements are true of all men or women at all times.
 
 If you’ve lived in a major city anytime in the last 30 years you’ve heard women asking “Where have all the good men gone?”  The marriage rate has been falling for 50 years, with the never married rate eclipsing the marriage rate for the first time around 2010.  Why are young people getting married at dramatically lower rates than their parents?  Despite 50 years of the feminist movement pushing womens equality, why do women feel increasing pressure from the “beauty” industry?  One school of thought is that feminism has not done enough to combat a white male patriarchal society that represses women.  An alternate perspective is that feminism has become a victim of its own success.  As technology reduced the cost and time of domestic labor, the feminist movement pushed for women to enter the workforce and grow the family unit’s resources. At the same time, zoning restrictions imposed in the 1970s have kept the growth rate of the cost of housing substantially above inflation, meaning that most dual-income gains have been absorbed by property owners.
 
-![alt_text](https://ifstudies.org/ifs-admin/resources/screen-shot-2017-10-31-at-8.53.19-pm-3-w640.png)
+<img class="center-image-no-width" src="https://ifstudies.org/ifs-admin/resources/screen-shot-2017-10-31-at-8.53.19-pm-3-w640.png">
 
 
 If we look at sex and relationships through the lens of markets, sex has always been understood to be a female resource for which men paid different “prices” across time and culture.  Historically, women “charged” men for sexual access and the price was marriage.  Entire societies and cultures were set up to produce marriages. Sex outside of marriage was rare (with the exception of prostitution), as the lack of birth control meant there was a high probability of a child, while the threat of STIs encouraged marriage.  This market actually functions similar to one with a price floor.  While the market is two sided, (male buyers and female sellers, female buyers male sellers) women have always had a price floor below which they would not transact with men in the marriage market.  Men must provide income/status, while women have a default value to society of being able to provide sex to men and bear and raise children.  Women of childbearing age have an intrinsic value in the mating market while men’s value starts at and can decline to 0.  This is the fundamental asymmetry creating the market dynamics we see today.  When men and women transact in the marriage market the “price” they charge each other is different.  Both are essentially charging a price that represents a basket of goods we will call quality of life.  We will explore the marriage market from both sides and see how they function.  
 
 **Men as buyers and women are the sellers**
 
-![alt_text](https://lh3.googleusercontent.com/XpjS9QXj7uOIh5kMj4nG9US_H9ZJaKlrX-WkXpJdnBmFf-PbmIHNpHjEeT50p9V_qJNzFGfesdH-hI82pBZ6mCStBTTK55y6T7G9loebcbtAQbOFl1XYFsKc5UFR3nKh8OvwX_82)
+<img class="center-image-smaller-width" src="https://lh3.googleusercontent.com/XpjS9QXj7uOIh5kMj4nG9US_H9ZJaKlrX-WkXpJdnBmFf-PbmIHNpHjEeT50p9V_qJNzFGfesdH-hI82pBZ6mCStBTTK55y6T7G9loebcbtAQbOFl1XYFsKc5UFR3nKh8OvwX_82">
 
 
 While it’s not romantic to think of marriage as an economics problem, the idea of a “love” marriage is actually a radically new idea.  Historically marriage was an explicitly economic transaction and the marriage market functions similarly to the market for any other good.  In a market with a price floor above the market clearing price, there will be a supply glut (many women would love to “sell” at the new higher “price”). For a given price above the market clearing price, there will be many more suppliers (women) willing to sell at that price than buyers (men). Suppliers (women) can not charge a lower price to compete for buyers as they would in a market without a price floor, however they must make their product (themselves) more appealing to buyers.  Because the market never clears, suppliers (women) continue to escalate value-add services in perpetuity.  For example, in markets where: suppliers compete for buyers, buyers are relatively price insensitive, and the deal size is high, there are long sales cycles and salespeople learn to woo the prospective [buyers with intimacy, gifts etc](https://books.google.com/books?id=viwraQS5hHoC&pg=PA62&lpg=PA62&dq=sell+side+strippers&source=bl&ots=Q4Pkaud_Ru&sig=ACfU3U247tUHAZxeZoCvUivqO7DbhZUi9Q&hl=en&sa=X&ved=2ahUKEwj-5abRotLpAhXSc98KHTKgBpAQ6AEwAXoECAsQAQ#v=onepage&q=sell%20side%20strippers&f=false). (Govt contracts, Wall Street, enterprise software). It is often said you know how much you are being overcharged by the price of the gift you receive at Xmas. In the mating market, women use beauty/sex to differentiate their product (themselves) when they cannot lower their “price” (status/education/income they require).
-
 	In addition to the change in the price floor, there is also a substitution effect that is changing the elasticity of demand for women. Historically, men were not very price sensitive in the marriage market as one needed to marry to access the sexual marketplace. The sexual revolution and discovery of birth control bifurcated the marriage market into two markets, the marriage market and the sexual marketplace. Sex was one of the primary goods included in the bundle of quality of life women offered men in marriage, and the “price” of sex has fallen dramatically.  For men, substitutes for sex have gotten substantially better, so for a given price change men are more likely to switch to the substitute. Porn/OnlyFans/Instagram/Camming/Prostitution and video games are the main substitutes in the marriage market for intacy/sex/entertainment for men.  As technology progresses these substitutes will become increasingly competitive and with time will close the gap on being perfect substitutes by both increasing “utility” and lowering cost.
 
 Not only are the substitutes for sex getting better, the substitutes for marriage are substantially better.  The quality of life bundle offered to men outside of marriage rarely included reliable access to sex until the “sexual revolution” in the 1960s.  Men can often access love/intimacy and reliable access to sex _without_ marriage.
@@ -48,13 +32,13 @@ The “price” or quality of life women are offering to men is different than t
 
 ### **Men as sellers and women as buyers**
 
-![alt_text](https://lh3.googleusercontent.com/58ItYUwALHRGvpGzgbOWA0Ir84bYNKN80wpo0dmtAZq7NChB7C5OL7fkKtSlO1CRidOxOAzC63oYQwZecqxKkY1iG5HkVOGVWIfq7k79NyYejqrjg96_lz4B6gsKRC4snNAUgQ_N)
+<img class="center-image-smaller-width" src="https://lh3.googleusercontent.com/58ItYUwALHRGvpGzgbOWA0Ir84bYNKN80wpo0dmtAZq7NChB7C5OL7fkKtSlO1CRidOxOAzC63oYQwZecqxKkY1iG5HkVOGVWIfq7k79NyYejqrjg96_lz4B6gsKRC4snNAUgQ_N">
 
-![alt_text](https://lh6.googleusercontent.com/iv3p2VicliB-PD6hev4soFKGP9vBkWMQzR3qzB6Q4Adv3fUyDhwHEn_acu7Bluh8m6dmjpWYGWzjuBDJ8zZ0x5Zoj6q7ERpD97zyDWpC7ot3qAAx0p50FJ5KohQTnIfbnDMcWrqH)
+<img class="center-image-smaller-width" src="https://lh6.googleusercontent.com/iv3p2VicliB-PD6hev4soFKGP9vBkWMQzR3qzB6Q4Adv3fUyDhwHEn_acu7Bluh8m6dmjpWYGWzjuBDJ8zZ0x5Zoj6q7ERpD97zyDWpC7ot3qAAx0p50FJ5KohQTnIfbnDMcWrqH">
 
 When women are buyers, they are looking for “attractive men” who will be good co-parents.  This includes a high status partner, high projected future income, fitness, parenting skills, willingness to be a parent, sexual pleasure, and education. The typical family unit created a division of labor where women produced and raised children, and men provided resources.  Post feminism, a naive economic model might expect that as women go from earning no income to X income, demand for men’s income would go down as total family income could stay constant with men’s income declining to 100 - X.  However, post feminism, women’s marriage price has gone up rather than down.  This unexpected outcome can be explained by the persistent observation that women seek high status partners, and the majority demand a man’s education/income to be at least as high as theirs.  As women gain in relative terms in the labor/education market, their demands in the marriage market go up, and by definition men can’t keep up.  While men commonly marry women who make less money and have less education/status, the strong preference women show for marrying up creates an artificial price floor that only exists on the female demand side of the market.  
 
-![alt_text](https://lh5.googleusercontent.com/v1aie43IXt0LFZzmCy1gNVxsAvrxIxCrCk8Zo6M8SqkvaNGsQEGB7A0xi-AULm_7BPzCGn1Kx5aTxQRTKbAEFfegpTGek8oHAaeW8cGsNi_vPwDxxzu5vsgbxpJ0dW2mqxYA2k8u)
+<img class="center-image-smaller-width" src="https://lh5.googleusercontent.com/v1aie43IXt0LFZzmCy1gNVxsAvrxIxCrCk8Zo6M8SqkvaNGsQEGB7A0xi-AULm_7BPzCGn1Kx5aTxQRTKbAEFfegpTGek8oHAaeW8cGsNi_vPwDxxzu5vsgbxpJ0dW2mqxYA2k8u">
 
 Because women only transact above a certain price in the marriage market when we look at women’s demand for men in the mating market, it makes sense to only look at the supply and demand of “attractive” men.  There has been a supply shock of attractive men as the number of men that meet women’s standards has dropped dramatically since the start of the feminist movement.  As a result, the elasticity of demand for high status males has gone up over time due to a state of perpetual shortage (women are less “price” sensitive than they used to be). 
 
