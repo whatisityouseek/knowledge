@@ -31,7 +31,21 @@
   width: 500px;
 }
 
+.medium-width {
+  width: 500px;
+}
+
+.small-width {
+  width: 300px;
+}
+
 .center-image-no-width {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center-image {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -50,8 +64,8 @@
   max-width: 400px !important;
 }
 
-.page__content {
-  font-size: .9em;
+.page__content p, li{
+  font-size: .9em !important;
 }
 
 body {
