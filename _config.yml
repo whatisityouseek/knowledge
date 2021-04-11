@@ -38,8 +38,8 @@ comments:
     endpoint  : https://staticman-commenter.herokuapp.com/v3/entry/github/
 reCaptcha:
   enabled: true
-  siteKey: "6LdElqQaAAAAAAOnQJ2dy00-f8LnSbETPaT10lds"
-  secret: "BqEXE8e5LSYf9COGmtXrhr/KnKlAlIs/8YzbhVdV5u3eqPFoY4g4BYHZsdd6EfIpxcdPSssGxiHC99UkxEk0cbvI48oQJuJkZy1fPybIMdSNJfdpXz2cVFyLMhEwtGl3FQsCR5zQNzD9HsQQJWFlzSog8xn3AY6YKr0lpARF/k3zT+mZmcc9Mnvj6nOYp+gPQ02aUXe5uxwJxXdbIuf/SyGsCnEoLIlODrkwLfRHh+ROCY+VSDMq64yMmGSfcHpwI3iMSpK3H57Uvjag/h+bUlROgaIMVgOueLL7XltkR/A3k76ggiuV5b8Dce2+0ZSvjINC2MEQUGmA3rEh1jBl+A=="
+  siteKey: 6LdElqQaAAAAAAOnQJ2dy00-f8LnSbETPaT10lds
+  secret: BqEXE8e5LSYf9COGmtXrhr/KnKlAlIs/8YzbhVdV5u3eqPFoY4g4BYHZsdd6EfIpxcdPSssGxiHC99UkxEk0cbvI48oQJuJkZy1fPybIMdSNJfdpXz2cVFyLMhEwtGl3FQsCR5zQNzD9HsQQJWFlzSog8xn3AY6YKr0lpARF/k3zT+mZmcc9Mnvj6nOYp+gPQ02aUXe5uxwJxXdbIuf/SyGsCnEoLIlODrkwLfRHh+ROCY+VSDMq64yMmGSfcHpwI3iMSpK3H57Uvjag/h+bUlROgaIMVgOueLL7XltkR/A3k76ggiuV5b8Dce2+0ZSvjINC2MEQUGmA3rEh1jBl+A==
 
 
 # Exclude from processing.
