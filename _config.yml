@@ -39,7 +39,11 @@ comments:
 reCaptcha:
   siteKey: 6LdElqQaAAAAAAOnQJ2dy00-f8LnSbETPaT10lds
   secret: X2+EsdVtOV85v6r4rzZD8PXjnorvKX7gxHJZGTBi6a9W3aKnJ8fRyJuJY2R00IzEMdLrw2gpvOdk9oQrdD/866UWAsqrZQGuQBnTXDV8MQkQNYUBB9kkm36JUFwWqmWeduE4NZ94TmZOnPJhzpCMsRWTkao5MHETIPsoKxeMWy8Yy8RtfdbcgQ/VNSoAXFOxWl1eg/FZtjin38VJXEJc/2ooV04bW52prOKRn5wVpUGDuCKGEtGfeRt9lW9uA0GqRs1KyzEabg89XQupxQ8uj3ODFSQJtE5AvTd+suqd0bKV1q8ewa/QJXe6bHVb1Fsb8MREUMPNU4HObaMZubp1pQ==
-
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-39LTWC63YS"
+    anonymize_ip: false # default
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
