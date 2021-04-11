@@ -36,6 +36,10 @@ comments:
   staticman:
     branch    : "master"
     endpoint  : https://staticman-commenter.herokuapp.com/v3/entry/github/
+reCaptcha:
+  enabled: true
+  siteKey: "6LdElqQaAAAAAAOnQJ2dy00-f8LnSbETPaT10lds"
+  secret: "WTPCZpNVq8tVXwmmK8UzkJl3PgnnQ0UiBgEHV9GDzrfMCkVK9u32HeckVlFiArTW7wmhKIL40LDFWvYc5Es0wlnwMTxUKup0e73LYY3Sa1jn6f9lTUU/2bfwiGmVQ9hCnvCMdRU4Txj67OKDUykO3ItNuF8AdXWuGbiV65ZFhys="
 
 
 # Exclude from processing.
