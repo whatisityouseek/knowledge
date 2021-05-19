@@ -6,7 +6,7 @@ categories:
   - redpill
 ---
 
-# Market Failure in the Marriage Market
+<h1 class="center-text"> Market Failure in the Marriage Market </h1>
 
 **Disclaimer**: This essay asserts characteristics of men and women on average, which when looked at through the lens of markets, allows us to see the direction of forces on each group and predict their behavior.  No statements are true of all men or women at all times.
 

@@ -6,8 +6,7 @@ categories:
   - redpill
 ---
 
-# Consent Is a Low Bar
-
+<h1 class="center-text"> Consent Is a Low Bar </h1>
 
 Historically, in western societies, sex before marriage was rare: families and communities exerted significant pressure on a man to “do the right thing” and marry a woman if he knocked her up (think “shotgun wedding”).  This set of cultural practices existed because there _were_ things called “communities” and most sexual relations happened with people who grew up in the same place. Parents had significant sway over who their children, and especially their daughters, married.
 
