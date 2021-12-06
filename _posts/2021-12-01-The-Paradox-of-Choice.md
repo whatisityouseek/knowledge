@@ -18,20 +18,19 @@ categories:
 
 ‘That was a good question. Not for church; I was there for money. The tsunami of cheap credit that rolled across the planet between 2002 and 2007 has just now created a new opportunity for travel: financial-disaster tourism. The credit wasn’t just money, it was temptation. It offered entire societies the chance to reveal aspects of their characters they could not normally afford to indulge. Entire countries were told, “The lights are out, you can do whatever you want to do and no one will ever know.” What they wanted to do with money in the dark varied. Americans wanted to own homes far larger than they could afford, and to allow the strong to exploit the weak. Icelanders wanted to stop fishing and become investment bankers, and to allow their alpha males to reveal a heretofore suppressed megalomania. The Germans wanted to be even more German; the Irish wanted to stop being Irish. All these different societies were touched by the same event, but each responded to it in its own peculiar way.’
 
+[Michael Lewis’ 2010 essay](https://www.vanityfair.com/news/2010/10/greeks-bearing-bonds-201010?currentPage=all) examined different cultures' responses to virtually unlimited credit:  what do people do when money is apparently no longer a constraint?  Western liberalism has spent the last 60 years removing all effective constraints on the individual, moving from a collective society to one optimized around individual freedom. Americans’ [feelings of isolation, atomization and disconnectedness](https://www.amazon.com/Lost-Connections-Uncovering-Depression-Unexpected/dp/1632868318) are arguably the result of discarding most of our societal, cultural, and sexual traditions, practices and constraints. When we have externally imposed guard rails on our lives, it’s hard to tell if those rails are there to prevent us from falling off a cliff or to keep us out of the promised land. [Chesterton’s Fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence) argues that we shouldn’t discard traditions, practices, or constraints without understanding why they existed in the first place.
 
-##### [Michael Lewis’ 2010 essay](https://www.vanityfair.com/news/2010/10/greeks-bearing-bonds-201010?currentPage=all) examined different cultures' responses to virtually unlimited credit:  what do people do when money is apparently no longer a constraint?  Western liberalism has spent the last 60 years removing all effective constraints on the individual, moving from a collective society to one optimized around individual freedom. Americans’ [feelings of isolation, atomization and disconnectedness](https://www.amazon.com/Lost-Connections-Uncovering-Depression-Unexpected/dp/1632868318) are arguably the result of discarding most of our societal, cultural, and sexual traditions, practices and constraints. When we have externally imposed guard rails on our lives, it’s hard to tell if those rails are there to prevent us from falling off a cliff or to keep us out of the promised land. [Chesterton’s Fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence) argues that we shouldn’t discard traditions, practices, or constraints without understanding why they existed in the first place.
+<section class="indent-paragraph" markdown="1">
+    II. Women want more - They want what men want
+</section>
 
+In many ways, Betty Fridan’s _The Feminist Mystique _launched the modern feminist movement.  She concludes the first chapter by saying:
 
-##### II. Women want more - They want what men want
+<section class="indent-paragraph" markdown="1">
+    We can no longer ignore that voice within women that says: 'I want something more than my husband and my children and my house’  
+</section>
 
-
-##### In many ways, Betty Fridan’s _The Feminist Mystique _launched the modern feminist movement.  She concludes the first chapter by saying:
-
-
-    We can no longer ignore that voice within women that says: 'I want something more than my husband and my children and my house’
-
-
-##### But what more _was it_ that they wanted? Without defining the “what?”, is the answer merely to want, and to pursue, but never to get to the thing?
+But what more _was it_ that they wanted? Without defining the “what?”, is the answer merely to want, and to pursue, but never to get to the thing?
 
 "Everybody gets something out of every transaction," said Joe, explaining why people want to be conned.  [That's what ads do for you.](https://thelastpsychiatrist.com/2013/05/dove.html)  They'll let you complain that they are telling you what to want, as long as you let them tell you how to want.
 
@@ -39,21 +38,23 @@ This is my favorite of [The Last Psychiatrists](https://thelastpsychiatrist.com/
 
 Suburban women who ostensibly had “everything,” defined by earlier standards, wanted more. They had safety, freedom, children who lived to adulthood, consumer conveniences—all major goals of economic, industrial, and scientific growth. (White) Women in the 1950s led lives that women in the 1850s could scarcely dream of. When the lights went out, what did women do with their newly acquired wealth?  Women had been taught _what to want_, but not _how to want_.  [Girard believes our desires are mimetic](https://twitter.com/0x49fa98/status/1049650017508646912): you desire what others desire, and so women wanted what men wanted, or perceived men had.  Women learned to want _like_ men wanted, and thus _what_ men wanted.
 
-
-##### III. Women want freedom of choice, Patriarchy is the enemy
-
-
-##### Feminists view and have viewed women’s problems as being imposed by [“the patriarchy,” a nebulous, poorly articulated force.](https://en.wikipedia.org/wiki/Patriarchy) A common narrative in feminist thought is that throughout history men have held all political, and economic power through the restriction of women’s choices.  As Western societies industrialized and farm life was no longer the dominant economic unit, men left the home and went to work while women stayed home and raised the children. This structure “oppressed” women, as many women did not have the same choices as men—most importantly the ability to earn financial capital through paid labor.  
+<section class="indent-paragraph" markdown="1">
+  III. Women want freedom of choice, Patriarchy is the enemy
+</section>
 
 
-##### Women’s ability to vote, go to school, earn money, and have sex, were limited by this “patriarchal” structure. If women wanted equality, they needed the same choices available to them as men therefore dismantling cultural and institutional forces which exerted control over acceptable choices was the solution. Men, and the institutions they had built under patriarchy and the restrictions they imposed on women became the enemy, and as a result the project of feminism became seeking access to institutions and removing restrictions on women’s choices. Choice became the fundamental principle the movement argued for. When we seek more freedom, it's important to ask: [“freedom from what or freedom for what”](https://twitter.com/0x49fa98/status/1079435298822483971)?
+Feminists view and have viewed women’s problems as being imposed by [“the patriarchy,” a nebulous, poorly articulated force.](https://en.wikipedia.org/wiki/Patriarchy) A common narrative in feminist thought is that throughout history men have held all political, and economic power through the restriction of women’s choices.  As Western societies industrialized and farm life was no longer the dominant economic unit, men left the home and went to work while women stayed home and raised the children. This structure “oppressed” women, as many women did not have the same choices as men—most importantly the ability to earn financial capital through paid labor.  
+
+
+Women’s ability to vote, go to school, earn money, and have sex, were limited by this “patriarchal” structure. If women wanted equality, they needed the same choices available to them as men therefore dismantling cultural and institutional forces which exerted control over acceptable choices was the solution. Men, and the institutions they had built under patriarchy and the restrictions they imposed on women became the enemy, and as a result the project of feminism became seeking access to institutions and removing restrictions on women’s choices. Choice became the fundamental principle the movement argued for. When we seek more freedom, it's important to ask: [“freedom from what or freedom for what”](https://twitter.com/0x49fa98/status/1079435298822483971)?
 
 In the Western world, after 60 years of the modern feminist movement, women can have sex like men. We have removed all the restrictions previously by family and the state on dating and optimized for the individual. Sex is now a marketplace, and we treat people like products, and the forces of capitalism have for the first time created a truly free sexual marketplace.  Women wanted what men wanted, and now they have what men have. Both women and men have free choice, but the larger culture critiques men’s choices more strongly than ever, [a balancing of rights with responsibilities](https://ryanholiday.net/why-we-need-a-statue-of-responsibility/), while feminism has argued for unlimited choice with no corresponding accountability. Women have all the freedoms, and little responsibility. Does the inability to critique women’s choices serve women?
 
+<section class="indent-paragraph" markdown="1">
+    IV. Porn wars resolved by consent/choice
+</section>
 
-##### IV. Porn wars resolved by consent/choice
-
-As the feminist movement grew, it experienced tensions from competing interal factions. For example, some women really do enjoy casual sex with multiple partners; some are exhibitionists. As the porn industry began to grow with the popularization of home videos (VHS), feminism began to address “the sex and porn question”.  Should feminism be sex-positive and _for_ pornography/”sex work”, or “sex-negative” and anti-porn.  The growing ideological divide threatened to drive a wedge through the movement.  Anti-porn feminists (APF) believed porn was wrong for two major reasons:
+As the feminist movement grew, it experienced tensions from competing internal factions. For example, some women really do enjoy casual sex with multiple partners; some are exhibitionists. As the porn industry began to grow with the popularization of home videos (VHS), feminism began to address “the sex and porn question”.  Should feminism be sex-positive and _for_ pornography/”sex work”, or “sex-negative” and anti-porn.  The growing ideological divide threatened to drive a wedge through the movement.  Anti-porn feminists (APF) believed porn was wrong for two major reasons:
 
 
 
