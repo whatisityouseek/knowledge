@@ -67,40 +67,39 @@ Liberal feminists _won_ the battle for feminism to be pro-porn but in that victo
 
 The porn industry's focus on ‘choice’, or, a woman's choice to participate in the production of porn, made the central issue about consent. A liberal society defaults strongly to an anti-paternalistic approach. By appealing to “choice” and “consent” the porn industry conceded that pornography might harm its performers, but that such harms were _not_ wrong because all performers were adult women who had given their [consent](https://www.whatisityouseek.com/redpill/Consent-Is-A-Low-Bar/). APFs were then faced with the philosophically difficult (if not impossible) and alienating task of problematizing women’s choices.
 
-
-##### V. Feminists optimizing for choice is a paradox
+<section class="indent-paragraph" markdown="1">
+    V. Feminists optimizing for choice is a paradox
+</section>
 
 Feminists have argued that women’s fundamental right is the right to choose: to have children or a career, to dress provocatively or conservatively and to have sex when and how they pleased. Choice is the fundamental element in all feminist arguments, but tying their fortunes to it has become a Catch-22.
 
 With the benefit of a half century of hindsight, it seems clear that porn and sex work have been a net negative for women; those outside of porn and sex work compete with women inside them. Optimizing for individual choice, without looking at how those decisions affect people in the aggregate has created many obvious contradictions within the feminist movement.  It’s become impossible for liberal feminists to argue that other women’s choices should be taken away-especially when those choices relate to sex. Feminists have been consistent in their messaging that it is “The Patriarchy™” who limits women’s ability to choose how to dress, and control their sexuality. As a result feminists tend to be extremely careful when it comes to pushing for restrictions on how other women behave. However, this reluctance can create tension when theory meets practice. [Natasha Walters’ Living Dolls](https://www.amazon.com/Living-Dolls-Return-Natasha-Walter/dp/1844087093) explores this rhetorical trap feminists have found themselves in.
 
-----------------------------------------------------------------------------------------------------------------------------
+<section class="indent-paragraph" markdown="1">
+  At one point I turned to Helen to understand more about how she felt about her best friend’s work. She was keen to express her support for it.
 
-At one point I turned to Helen to understand more about how she felt about her best friend’s work. She was keen to express her support for it.
+  ‘Women are now in much more dominant roles in society, and they can say, you know what, I’m doing this for myself. It’s something to be proud of,’ she said. And how does that make other women feel? I wondered. ‘Well, if you’re happy with how you look, why shouldn’t you be happy with how other women look? Cara **chooses** to do this work, and it’s in a magazine that people **choose** to buy – you don’t have to buy it.’
 
-‘Women are now in much more dominant roles in society, and they can say, you know what, I’m doing this for myself. It’s something to be proud of,’ she said. And how does that make other women feel? I wondered. ‘Well, if you’re happy with how you look, why shouldn’t you be happy with how other women look? Cara **chooses** to do this work, and it’s in a magazine that people **choose** to buy – you don’t have to buy it.’
+  This emphasis on choice is key. Anyone who would like to criticise this culture that sees women primarily as sexy dolls will find themselves coming up against the constantly repeated mantra of free choice. At one Babes on the Bed club night in Scotland, the club was picketed by a feminist group, and Cara’s nose wrinkled with scorn when she described them.
 
-This emphasis on choice is key. Anyone who would like to criticise this culture that sees women primarily as sexy dolls will find themselves coming up against the constantly repeated mantra of free choice. At one Babes on the Bed club night in Scotland, the club was picketed by a feminist group, and Cara’s nose wrinkled with scorn when she described them.
+  ‘I had them – I had them outside one of my club nights, in Scotland somewhere. To be honest, I think it’s stupid, the feminists coming round, throwing eggs and that, I think they should grow up. The girls that are entering, are entering out of **choice**, **they are not being forced**, and so let them.’
 
-‘I had them – I had them outside one of my club nights, in Scotland somewhere. To be honest, I think it’s stupid, the feminists coming round, throwing eggs and that, I think they should grow up. The girls that are entering, are entering out of **choice**, **they are not being forced**, and so let them.’
+  ------------------------------------------------------------------------------------------------
 
----------------------------------------------------------------------------------------------------------------------------
+  Many young women I spoke to seem to feel that their lives have been impoverished by the devaluation of sex into exchange and performance rather than mutual intimacy.
 
-Many young women I spoke to seem to feel that their lives have been impoverished by the devaluation of sex into exchange and performance rather than mutual intimacy.
+  This new culture of shags and threesomes, orgies and stranger fucks, seems to be replacing the culture in which sex was associated with the flowering of intimacy. Although this is so often associated with liberation, I am not convinced that this is what all feminists were seeking, then or now.
 
-This new culture of shags and threesomes, orgies and stranger fucks, seems to be replacing the culture in which sex was associated with the flowering of intimacy. Although this is so often associated with liberation, I am not convinced that this is what all feminists were seeking, then or now.
+  ‘Feminism is now seen as sexual promiscuity, which is such a narrow view of empowerment. Liberation isn’t just about promiscuity. For some women liberation may be about having a new sexual partner every week, but for a lot of women it will be about finding someone to be with for your whole life, growing together over the years, and you never hear about that any more. What liberation means to me is that in any sexual relationship you are cherished, and you cherish.’
 
-‘Feminism is now seen as sexual promiscuity, which is such a narrow view of empowerment. Liberation isn’t just about promiscuity. For some women liberation may be about having a new sexual partner every week, but for a lot of women it will be about finding someone to be with for your whole life, growing together over the years, and you never hear about that any more. What liberation means to me is that in any sexual relationship you are cherished, and you cherish.’
+  I was struck by her view that a focus on individual choice often ignores the effects of those choices. ‘I think the thing is that even if they feel that way for themselves, don’t they realise what they are doing for other women?’ she said of women who decide to go into stripping or sex work. ‘It took us a while to get to where we are now, which is basically where men were at – to be able to insist on respect. And these women are breaking it all down. They are putting us back to where we used to be.
+</section>
 
-I was struck by her view that a focus on individual choice often ignores the effects of those choices. ‘I think the thing is that even if they feel that way for themselves, don’t they realise what they are doing for other women?’ she said of women who decide to go into stripping or sex work. ‘It took us a while to get to where we are now, which is basically where men were at – to be able to insist on respect. And these women are breaking it all down. They are putting us back to where we used to be.
+<section class="indent-paragraph" markdown="1">
+  VI. The system wins again
+</section>
 
-----------------------------------------------------------------------------------------------------------------------------
-
-
-##### VI. The system wins again
-
-
-##### While feminists have been working to expand women’s choices, the system has been working to get what it wants. The capitalist machine wants consumers for its products, cogs for the machine of production, and zombielike devotion to the belief that their choices are free.
+While feminists have been working to expand women’s choices, the system has been working to get what it wants. The capitalist machine wants consumers for its products, cogs for the machine of production, and zombielike devotion to the belief that their choices are free.
 
 Shouldn’t women be allowed to take their clothes off in front of men in public for money or pleasure?  Shouldn't we be allowed to make our own free choices about what to do with our own bodies?
 
@@ -110,8 +109,9 @@ Why is it that most liberals will defend (to death) the rights of sex workers, b
 
 Once feminists structured their arguments around choice, they lost the fundamental ability to do what all successful groups have throughout history, to optimize society so that [“Logic clearly dictates that the needs of the many outweigh the needs of the few.”](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.magicalquote.com%2Fmoviequotes%2Fthe-needs-of-the-many-outweigh-the-needs-of-the-few%2F&psig=AOvVaw13nu8k5z9kMUb2aJzxRBf8&ust=1633467215628000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJC_hNvRsfMCFQAAAAAdAAAAABAD)  Women should be free to criticize and restrict the freedoms of other women if women as a whole can benefit.
 
-
-##### VII. Feminists lose to themselves
+<section class="indent-paragraph" markdown="1">
+  VII. Feminists lose to themselves
+</section>
 
 Basing a movement around unconstrained choice has produced what one would expect; childlike behavior. Becoming an adult is a process in which children make more and more of their own choices over time, while their parents begin to expose them to the consequences of those choices.  Children are not celebrated for maximizing the number of choices they are able to make, but rather are gradually exposed to the world’s feedback loop.  Choose poorly, and life can get bad quickly.  Make good choices, and you get to keep leveling up.  When they fail, we offer feedback and structure for how to make better choices in the future, and help them weigh the costs and benefits of short vs long term thinking.  As they earn additional freedoms, those come bundled with additional responsibilities and the burden of the full consequences of one's choices.  More choice is not always better, and a world where critical feedback on one's choices is not socially acceptable is a world where one is destined to fail.  Feminists have expanded women’s choice, but in the process centered choice as an unassailable quantity that must grow at all costs.  Paradoxically this has left women unable to help each other make better decisions through critical feedback.
 
@@ -127,10 +127,11 @@ Nancy rails against the evils of dating app culture, which she believes is “mi
 
 In Sales' eyes there’s more than enough blame to go around. Capitalism! Big Tech! Men! Gen Z!  Why can’t a late 50s divorcee have emotionally connected yet NSA casual sex in the exact way she want’s on demand with men 30 years her junior without being slut shamed by Faux feminists?  “Nancy Jo Sales, please pick up the white courtesy phone, Candace Bushnell is on the line.” Hiding behind the bulletproof rhetorical shields of, “choice”, “consent”, “non-judgement” and “slut shaming” everyone is responsible for Nancy’s problems but herself.  As a bonus, any critique is further proof of the misogyny of the dating app world she warned herself about in [her 2015 article to women like her](https://www.vanityfair.com/culture/2015/08/tinder-hook-up-culture-end-of-dating).  Maybe someday she’ll start reading her own essays, but that day is _not_ today.
 
+<section class="indent-paragraph" markdown="1">
+  VIII. The Future of Feminism
+</section>
 
-##### VIII. The Future of Feminism
 
 Feminists got the world they asked for-a world where women have unconstrained choices. Was it the one they wanted? Some feminists appear to want to constrain women’s choices again, with them doing the constraining. It is now assumed that a woman’s choice was a good one because she made it and it is taboo to publicly criticize a woman’s choice. Is porn good for women? Is taking your clothes off empowering? Are woman happy having sex like men? [Why have women’s happiness measures declined since the start of the modern femist movement](https://www.theguardian.com/lifeandstyle/2016/may/18/womens-rights-happiness-wellbeing-gender-gap)? Are they, and we, on a hedonic treadmill, expecting ever-greater improvements? Is it possible that some choices women make are bad for them? Is it possible that women were happier under “patriarchy”? Is working as satisfying as Feminists have told women? [Is it possible that unconstrained female sexuality is not a Utopia for women](https://www.amazon.com/Too-Many-Women-Ratio-Question/dp/0803919190)? [Is it possible that more choice](https://www.ted.com/talks/barry_schwartz_the_paradox_of_choice?language=en) is not always better for women?
 
-
-##### What does the future of feminism look like? The future of sex? What would the movement be if it was divorced from its fixation on “choice?” Will anyone accept outside structure and strictures today? Almost no attractive women under the age of 30 contemplate these questions, and virtually none alter their sexual behavior because of them. Watch what people do, not what they say. In the late 18th century a group of English citizens dumped some tea in Boston harbor with the possibly specious cry of “No taxation without representation”. Maybe the answer is not optimising for choice and freedom, but rather, consent to be governed, and restraint. As women gain more political power, might they rethink demands for freedom at any cost? Another goal could be ensuring their continued success by participating in the governance process; gaining rights while balancing responsibilities. Once political power is secure, feminists could begin advocating for some restriction of women’s freedoms without fear of tyranny.
+What does the future of feminism look like? The future of sex? What would the movement be if it was divorced from its fixation on “choice?” Will anyone accept outside structure and strictures today? Almost no attractive women under the age of 30 contemplate these questions, and virtually none alter their sexual behavior because of them. Watch what people do, not what they say. In the late 18th century a group of English citizens dumped some tea in Boston harbor with the possibly specious cry of “No taxation without representation”. Maybe the answer is not optimising for choice and freedom, but rather, consent to be governed, and restraint. As women gain more political power, might they rethink demands for freedom at any cost? Another goal could be ensuring their continued success by participating in the governance process; gaining rights while balancing responsibilities. Once political power is secure, feminists could begin advocating for some restriction of women’s freedoms without fear of tyranny.
