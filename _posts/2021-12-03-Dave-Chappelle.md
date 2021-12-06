@@ -19,10 +19,9 @@ Right right.  No it was annoying as fuck...because if these women were serious y
 
 </section>
 
-![alt_text](https://lh6.googleusercontent.com/Nifcv9n4ctwkCZ0LPt7UGvJmEZtpG09ptBppyn857hFzSLpYK-yFl2cc3SEq8Rv5d35-Y0hMMEUHbZUllHTjrhZpAqIpBHRaIwp9jdrcH_Deud6HVJxSuSs26nBRYrR4lC6IRXRJ)
+<img class='center-image small-width' src='https://lh6.googleusercontent.com/Nifcv9n4ctwkCZ0LPt7UGvJmEZtpG09ptBppyn857hFzSLpYK-yFl2cc3SEq8Rv5d35-Y0hMMEUHbZUllHTjrhZpAqIpBHRaIwp9jdrcH_Deud6HVJxSuSs26nBRYrR4lC6IRXRJ')
 
-![alt_text](https://lh3.googleusercontent.com/tkwZPui_wRLGV9bKCi6c8oWKvXK3tfQiEMnzReK32mTE3driYHqQgOvU8gsJSolCAws_JUG0bwnTLPxDlbL1y833mL7OXhE4EgC3fWafOH6TJJ5MwAoaDJBd0brvj58Xe5I0HEPF)
-
+<img class='center-image small-width' src='https://lh3.googleusercontent.com/tkwZPui_wRLGV9bKCi6c8oWKvXK3tfQiEMnzReK32mTE3driYHqQgOvU8gsJSolCAws_JUG0bwnTLPxDlbL1y833mL7OXhE4EgC3fWafOH6TJJ5MwAoaDJBd0brvj58Xe5I0HEPF')
 
 <section class="center-text"> And now we’re right back to square one aren’t we… </section>
 
