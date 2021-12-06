@@ -18,9 +18,7 @@ The feminist movement is one of the best illustrations of “Be careful what you
 
 [Michael Lewis’ 2010 essay](https://www.vanityfair.com/news/2010/10/greeks-bearing-bonds-201010?currentPage=all) examined different cultures' responses to virtually unlimited credit:  what do people do when money is apparently no longer a constraint?  Western liberalism has spent the last 60 years removing all effective constraints on the individual, moving from a collective society to one optimized around individual freedom. Americans’ [feelings of isolation, atomization and disconnectedness](https://www.amazon.com/Lost-Connections-Uncovering-Depression-Unexpected/dp/1632868318) are arguably the result of discarding most of our societal, cultural, and sexual traditions, practices and constraints. When we have externally imposed guard rails on our lives, it’s hard to tell if those rails are there to prevent us from falling off a cliff or to keep us out of the promised land. [Chesterton’s Fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence) argues that we shouldn’t discard traditions, practices, or constraints without understanding why they existed in the first place.
 
-<section class="center-text"> II. Women want more - They want what men want </section>
-
-
+<section class="center-text"> II. Women want more - They want what men want </section>  
 
 In many ways, Betty Fridan’s _The Feminist Mystique _launched the modern feminist movement.  She concludes the first chapter by saying:
 
@@ -45,7 +43,7 @@ Women’s ability to vote, go to school, earn money, and have sex, were limited 
 
 In the Western world, after 60 years of the modern feminist movement, women can have sex like men. We have removed all the restrictions previously by family and the state on dating and optimized for the individual. Sex is now a marketplace, and we treat people like products, and the forces of capitalism have for the first time created a truly free sexual marketplace.  Women wanted what men wanted, and now they have what men have. Both women and men have free choice, but the larger culture critiques men’s choices more strongly than ever, [a balancing of rights with responsibilities](https://ryanholiday.net/why-we-need-a-statue-of-responsibility/), while feminism has argued for unlimited choice with no corresponding accountability. Women have all the freedoms, and little responsibility. Does the inability to critique women’s choices serve women?
 
-<h1 class="center-text"> IV. Porn wars resolved by consent/choice </h1>
+<section class="center-text"> IV. Porn wars resolved by consent/choice </section>
 
 As the feminist movement grew, it experienced tensions from competing internal factions. For example, some women really do enjoy casual sex with multiple partners; some are exhibitionists. As the porn industry began to grow with the popularization of home videos (VHS), feminism began to address “the sex and porn question”.  Should feminism be sex-positive and _for_ pornography/”sex work”, or “sex-negative” and anti-porn.  The growing ideological divide threatened to drive a wedge through the movement.  Anti-porn feminists (APF) believed porn was wrong for two major reasons:
 
