@@ -18,9 +18,9 @@ The feminist movement is one of the best illustrations of “Be careful what you
 
 [Michael Lewis’ 2010 essay](https://www.vanityfair.com/news/2010/10/greeks-bearing-bonds-201010?currentPage=all) examined different cultures' responses to virtually unlimited credit:  what do people do when money is apparently no longer a constraint?  Western liberalism has spent the last 60 years removing all effective constraints on the individual, moving from a collective society to one optimized around individual freedom. Americans’ [feelings of isolation, atomization and disconnectedness](https://www.amazon.com/Lost-Connections-Uncovering-Depression-Unexpected/dp/1632868318) are arguably the result of discarding most of our societal, cultural, and sexual traditions, practices and constraints. When we have externally imposed guard rails on our lives, it’s hard to tell if those rails are there to prevent us from falling off a cliff or to keep us out of the promised land. [Chesterton’s Fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence) argues that we shouldn’t discard traditions, practices, or constraints without understanding why they existed in the first place.
 
-<section class="indent-paragraph" markdown="1">
-II. Women want more - They want what men want
-</section>
+<h1 class="center-text"> II. Women want more - They want what men want </h1>
+
+
 
 In many ways, Betty Fridan’s _The Feminist Mystique _launched the modern feminist movement.  She concludes the first chapter by saying:
 
@@ -36,10 +36,7 @@ This is my favorite of [The Last Psychiatrists](https://thelastpsychiatrist.com/
 
 Suburban women who ostensibly had “everything,” defined by earlier standards, wanted more. They had safety, freedom, children who lived to adulthood, consumer conveniences—all major goals of economic, industrial, and scientific growth. (White) Women in the 1950s led lives that women in the 1850s could scarcely dream of. When the lights went out, what did women do with their newly acquired wealth?  Women had been taught _what to want_, but not _how to want_.  [Girard believes our desires are mimetic](https://twitter.com/0x49fa98/status/1049650017508646912): you desire what others desire, and so women wanted what men wanted, or perceived men had.  Women learned to want _like_ men wanted, and thus _what_ men wanted.
 
-<section class="indent-paragraph" markdown="1">
-III. Women want freedom of choice, Patriarchy is the enemy
-</section>
-
+<h1 class="center-text"> III. Women want freedom of choice, Patriarchy is the enemy </h1>
 
 Feminists view and have viewed women’s problems as being imposed by [“the patriarchy,” a nebulous, poorly articulated force.](https://en.wikipedia.org/wiki/Patriarchy) A common narrative in feminist thought is that throughout history men have held all political, and economic power through the restriction of women’s choices.  As Western societies industrialized and farm life was no longer the dominant economic unit, men left the home and went to work while women stayed home and raised the children. This structure “oppressed” women, as many women did not have the same choices as men—most importantly the ability to earn financial capital through paid labor.  
 
@@ -48,13 +45,9 @@ Women’s ability to vote, go to school, earn money, and have sex, were limited 
 
 In the Western world, after 60 years of the modern feminist movement, women can have sex like men. We have removed all the restrictions previously by family and the state on dating and optimized for the individual. Sex is now a marketplace, and we treat people like products, and the forces of capitalism have for the first time created a truly free sexual marketplace.  Women wanted what men wanted, and now they have what men have. Both women and men have free choice, but the larger culture critiques men’s choices more strongly than ever, [a balancing of rights with responsibilities](https://ryanholiday.net/why-we-need-a-statue-of-responsibility/), while feminism has argued for unlimited choice with no corresponding accountability. Women have all the freedoms, and little responsibility. Does the inability to critique women’s choices serve women?
 
-<section class="indent-paragraph" markdown="1">
-IV. Porn wars resolved by consent/choice
-</section>
+<h1 class="center-text"> IV. Porn wars resolved by consent/choice </h1>
 
 As the feminist movement grew, it experienced tensions from competing internal factions. For example, some women really do enjoy casual sex with multiple partners; some are exhibitionists. As the porn industry began to grow with the popularization of home videos (VHS), feminism began to address “the sex and porn question”.  Should feminism be sex-positive and _for_ pornography/”sex work”, or “sex-negative” and anti-porn.  The growing ideological divide threatened to drive a wedge through the movement.  Anti-porn feminists (APF) believed porn was wrong for two major reasons:
-
-
 
 1. The production of pornography requires harm:
     1. Porn caused rape and violence against women.
@@ -65,9 +58,7 @@ Liberal feminists _won_ the battle for feminism to be pro-porn but in that victo
 
 The porn industry's focus on ‘choice’, or, a woman's choice to participate in the production of porn, made the central issue about consent. A liberal society defaults strongly to an anti-paternalistic approach. By appealing to “choice” and “consent” the porn industry conceded that pornography might harm its performers, but that such harms were _not_ wrong because all performers were adult women who had given their [consent](https://www.whatisityouseek.com/redpill/Consent-Is-A-Low-Bar/). APFs were then faced with the philosophically difficult (if not impossible) and alienating task of problematizing women’s choices.
 
-<section class="indent-paragraph" markdown="1">
-V. Feminists optimizing for choice is a paradox
-</section>
+<h1 class="center-text"> V. Feminists optimizing for choice is a paradox </h1>
 
 Feminists have argued that women’s fundamental right is the right to choose: to have children or a career, to dress provocatively or conservatively and to have sex when and how they pleased. Choice is the fundamental element in all feminist arguments, but tying their fortunes to it has become a Catch-22.
 
@@ -93,9 +84,7 @@ This new culture of shags and threesomes, orgies and stranger fucks, seems to be
 I was struck by her view that a focus on individual choice often ignores the effects of those choices. ‘I think the thing is that even if they feel that way for themselves, don’t they realise what they are doing for other women?’ she said of women who decide to go into stripping or sex work. ‘It took us a while to get to where we are now, which is basically where men were at – to be able to insist on respect. And these women are breaking it all down. They are putting us back to where we used to be.
 </section>
 
-<section class="indent-paragraph" markdown="1">
-VI. The system wins again
-</section>
+<h1 class="center-text"> VI. The system wins again </h1>
 
 While feminists have been working to expand women’s choices, the system has been working to get what it wants. The capitalist machine wants consumers for its products, cogs for the machine of production, and zombielike devotion to the belief that their choices are free.
 
@@ -107,9 +96,7 @@ Why is it that most liberals will defend (to death) the rights of sex workers, b
 
 Once feminists structured their arguments around choice, they lost the fundamental ability to do what all successful groups have throughout history, to optimize society so that [“Logic clearly dictates that the needs of the many outweigh the needs of the few.”](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.magicalquote.com%2Fmoviequotes%2Fthe-needs-of-the-many-outweigh-the-needs-of-the-few%2F&psig=AOvVaw13nu8k5z9kMUb2aJzxRBf8&ust=1633467215628000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJC_hNvRsfMCFQAAAAAdAAAAABAD)  Women should be free to criticize and restrict the freedoms of other women if women as a whole can benefit.
 
-<section class="indent-paragraph" markdown="1">
-VII. Feminists lose to themselves
-</section>
+<h1 class="center-text"> VII. Feminists lose to themselves </h1>
 
 Basing a movement around unconstrained choice has produced what one would expect; childlike behavior. Becoming an adult is a process in which children make more and more of their own choices over time, while their parents begin to expose them to the consequences of those choices.  Children are not celebrated for maximizing the number of choices they are able to make, but rather are gradually exposed to the world’s feedback loop.  Choose poorly, and life can get bad quickly.  Make good choices, and you get to keep leveling up.  When they fail, we offer feedback and structure for how to make better choices in the future, and help them weigh the costs and benefits of short vs long term thinking.  As they earn additional freedoms, those come bundled with additional responsibilities and the burden of the full consequences of one's choices.  More choice is not always better, and a world where critical feedback on one's choices is not socially acceptable is a world where one is destined to fail.  Feminists have expanded women’s choice, but in the process centered choice as an unassailable quantity that must grow at all costs.  Paradoxically this has left women unable to help each other make better decisions through critical feedback.
 
@@ -125,10 +112,7 @@ Nancy rails against the evils of dating app culture, which she believes is “mi
 
 In Sales' eyes there’s more than enough blame to go around. Capitalism! Big Tech! Men! Gen Z!  Why can’t a late 50s divorcee have emotionally connected yet NSA casual sex in the exact way she want’s on demand with men 30 years her junior without being slut shamed by Faux feminists?  “Nancy Jo Sales, please pick up the white courtesy phone, Candace Bushnell is on the line.” Hiding behind the bulletproof rhetorical shields of, “choice”, “consent”, “non-judgement” and “slut shaming” everyone is responsible for Nancy’s problems but herself.  As a bonus, any critique is further proof of the misogyny of the dating app world she warned herself about in [her 2015 article to women like her](https://www.vanityfair.com/culture/2015/08/tinder-hook-up-culture-end-of-dating).  Maybe someday she’ll start reading her own essays, but that day is _not_ today.
 
-<section class="indent-paragraph" markdown="1">
-VIII. The Future of Feminism
-</section>
-
+<h1 class="center-text"> VIII. The Future of Feminism </h1>
 
 Feminists got the world they asked for-a world where women have unconstrained choices. Was it the one they wanted? Some feminists appear to want to constrain women’s choices again, with them doing the constraining. It is now assumed that a woman’s choice was a good one because she made it and it is taboo to publicly criticize a woman’s choice. Is porn good for women? Is taking your clothes off empowering? Are woman happy having sex like men? [Why have women’s happiness measures declined since the start of the modern femist movement](https://www.theguardian.com/lifeandstyle/2016/may/18/womens-rights-happiness-wellbeing-gender-gap)? Are they, and we, on a hedonic treadmill, expecting ever-greater improvements? Is it possible that some choices women make are bad for them? Is it possible that women were happier under “patriarchy”? Is working as satisfying as Feminists have told women? [Is it possible that unconstrained female sexuality is not a Utopia for women](https://www.amazon.com/Too-Many-Women-Ratio-Question/dp/0803919190)? [Is it possible that more choice](https://www.ted.com/talks/barry_schwartz_the_paradox_of_choice?language=en) is not always better for women?
 
