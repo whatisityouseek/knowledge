@@ -34,7 +34,7 @@ This is my favorite of [The Last Psychiatrists](https://thelastpsychiatrist.com/
 
 Suburban women who ostensibly had “everything,” defined by earlier standards, wanted more. They had safety, freedom, children who lived to adulthood, consumer conveniences—all major goals of economic, industrial, and scientific growth. (White) Women in the 1950s led lives that women in the 1850s could scarcely dream of. When the lights went out, what did women do with their newly acquired wealth?  Women had been taught _what to want_, but not _how to want_.  [Girard believes our desires are mimetic](https://twitter.com/0x49fa98/status/1049650017508646912): you desire what others desire, and so women wanted what men wanted, or perceived men had.  Women learned to want _like_ men wanted, and thus _what_ men wanted.
 
-<section class="center-text"> III. Women want freedom of choice, Patriarchy is the enemy </section><br>
+<section class="center-text"> III. Women want freedom of choice, Patriarchy is the enemy </section>
 
 Feminists view and have viewed women’s problems as being imposed by [“the patriarchy,” a nebulous, poorly articulated force.](https://en.wikipedia.org/wiki/Patriarchy) A common narrative in feminist thought is that throughout history men have held all political, and economic power through the restriction of women’s choices.  As Western societies industrialized and farm life was no longer the dominant economic unit, men left the home and went to work while women stayed home and raised the children. This structure “oppressed” women, as many women did not have the same choices as men—most importantly the ability to earn financial capital through paid labor.  
 
