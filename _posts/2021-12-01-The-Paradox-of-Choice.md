@@ -12,9 +12,7 @@ categories:
 The feminist movement is one of the best illustrations of “Be careful what you wish for”.  The movement’s success created a paradox for itself: as women’s freedom of choice has expanded, it has done so by establishing the principle that to expand female choice, [women’s choices must be considered unassailable](https://www.theonion.com/women-now-empowered-by-everything-a-woman-does-1819566746) and thus even bad choices are valid and to be celebrated. This tautology: “a woman made the choice, therefore it must be a good one,” prevents the movement from self-regulating and allows many bad ideas and choices to metastasize.
 </section>
 
-<section class="indent-paragraph" markdown="1">
-I. What do we do with unlimited credit?
-</section>
+<h1 class="center-text"> I. What do we do with unlimited credit? </h1>
 
 ‘That was a good question. Not for church; I was there for money. The tsunami of cheap credit that rolled across the planet between 2002 and 2007 has just now created a new opportunity for travel: financial-disaster tourism. The credit wasn’t just money, it was temptation. It offered entire societies the chance to reveal aspects of their characters they could not normally afford to indulge. Entire countries were told, “The lights are out, you can do whatever you want to do and no one will ever know.” What they wanted to do with money in the dark varied. Americans wanted to own homes far larger than they could afford, and to allow the strong to exploit the weak. Icelanders wanted to stop fishing and become investment bankers, and to allow their alpha males to reveal a heretofore suppressed megalomania. The Germans wanted to be even more German; the Irish wanted to stop being Irish. All these different societies were touched by the same event, but each responded to it in its own peculiar way.’
 
