@@ -5,37 +5,16 @@ classes: wide
 categories:
   - redpill
 ---
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
 
-Conversion time: 0.709 seconds.
+<h1 class="center-text"> The Paradox of Choice </h1>
 
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β31
-* Mon Dec 06 2021 14:27:41 GMT-0800 (PST)
-* Source doc: The Paradox of Choice
------>
-
-
-
-# The Paradox of Choice
-
-
-#####
+<section class="indent-paragraph" markdown="1">
     The feminist movement is one of the best illustrations of “Be careful what you wish for”.  The movement’s success created a paradox for itself: as women’s freedom of choice has expanded, it has done so by establishing the principle that to expand female choice, [women’s choices must be considered unassailable](https://www.theonion.com/women-now-empowered-by-everything-a-woman-does-1819566746) and thus even bad choices are valid and to be celebrated. This tautology: “a woman made the choice, therefore it must be a good one,” prevents the movement from self-regulating and allows many bad ideas and choices to metastasize.
+</section>
 
-
-#####
-    I. What do we do with unlimited credit?
+<section class="indent-paragraph" markdown="1">
+  I. What do we do with unlimited credit?
+</section>
 
 ‘That was a good question. Not for church; I was there for money. The tsunami of cheap credit that rolled across the planet between 2002 and 2007 has just now created a new opportunity for travel: financial-disaster tourism. The credit wasn’t just money, it was temptation. It offered entire societies the chance to reveal aspects of their characters they could not normally afford to indulge. Entire countries were told, “The lights are out, you can do whatever you want to do and no one will ever know.” What they wanted to do with money in the dark varied. Americans wanted to own homes far larger than they could afford, and to allow the strong to exploit the weak. Icelanders wanted to stop fishing and become investment bankers, and to allow their alpha males to reveal a heretofore suppressed megalomania. The Germans wanted to be even more German; the Irish wanted to stop being Irish. All these different societies were touched by the same event, but each responded to it in its own peculiar way.’
 
