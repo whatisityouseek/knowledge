@@ -65,28 +65,16 @@ However, online, women are being taught to select the most physically attractive
 
 When men and women go on a date, we see the evolutionary arms race up close.
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+<img class="center-image" src="https://lh5.googleusercontent.com/Spvp9--SzQRu6qqCr45uYqGRu05pfPLCfnGJl16QMG6DW5lab0GM9u5APbamjuOlCDSbC800OB8A3TiI_IKKTjFLfOaHMWRBoZsmM7Ym_fyKFcQnWBNGgpM6kNOBS4N4CCtg95qy">
 
 
 In short-term mating men consistently desire more partner variety across cultures. In addition, men view many women as “above threshold” in attractiveness, but women tend to be attracted primarily to men in the top twentieth percentile[^2]. This gives women the upper hand in the sexual marketplace. Third, men are willing to lower their standards for casual sexual encounters.  A man who is an 8 will go to bed with a woman who is a 6 if it requires minimal investment. Men and women both seek partners 25% higher in mate value. When a woman reaches up in mate value, those men are willing to relax their standards in mate value if it is for short term casual sex, while the woman is most likely looking to secure a long term mate at the upper end of her mate-value range. “Why am I being pestered by guys I don’t care about, but the men I’m genuinely attracted to seem to show little interest in me? You’re an 8 who is chasing after 10s being pursued by 6s.”[^3]
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<img class="center-image small-size" src="https://lh5.googleusercontent.com/MVcUhCuvwhAsuNpOqOJVIUuqdcT06o0X-8IYoNlIaPg5DkxBwonafCD4pWOHAsnoJba-YJyM1o1KlZkoUd6jJlw8xz4gyCwbpKjv6dhJvKUhZiOJegCdLxJ9GCk8-Vu_kE8TjB4s">
 
-
-![alt_text](images/image2.png "image_tooltip")
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+<img class="center-image small-size" src="https://lh4.googleusercontent.com/f7bZUhonh-s6ivlFeGynD6hRGZu1luDD7fw6qQc7Qqh4vpn7kN3OTk68H4ICzJBisl_AvZJ1IjTYuqXHP6EachKWkQUivbmFAA3FC07JSPYkxEHJFYot9ffmPf6Tbz2YG8JfRWPB">
 
 
 Men can learn to effectively facilitate this experience of connection, and the men who are really good at dating do learn how to do this, which further alters the market. On top of the structural problems presented by OLD, when it comes to dating, most women have a [fixed mindset](https://en.wikipedia.org/wiki/Mindset#Fixed_and_growth_mindset): their dating outcomes are a result of fixed traits-they can’t change them. If you look at how women speak and behave, they assume little to no agency for their dating outcomes; they are passive consumers of what men offer. How they feel _is_ their reality. On a date, most women see their role as interpreting their own subjective experience...how did he make me _feel_? How did I _feel_ when I was with him? Rather than going on a date believing they have a role in _creating_ a connection, they go on dates to see if they _feel_ or felt a connection. If the date _feels _surface level, most women will “next” the guy because they are hoping to feel a deeper connection, they just don’t know how to create it, which favors those men who are good at small talk and spiking her emotions and related behaviors that lead to the feeling of connection (which is often distinct from real connection).
