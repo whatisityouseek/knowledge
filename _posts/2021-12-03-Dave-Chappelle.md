@@ -18,11 +18,11 @@ That’s real talk, that was a silly movement. “I want everyone to wear croche
 Right right.  No it was annoying as fuck...because if these women were serious you know what they would’ve done? They all would have fired their agents. And they would have went to the mailroom of one of these big agencies and found a woman that was bustin’ her hump in there and said, “If you want to talk to us, then you have to talk to her.” And if they did that, then she would be big, and they would be big, and nobody would get fed to Harvey Weinstein.  But did they do that? No! Was that their idea? No. Surprisingly it was mine. What I think the feminist movement needs to be very sucessful…is a male leader. I’ll do it. I will. I will lead you women to the promised land. I will make sure you get equal pay for equal work. I will make sure that nobody harasses you or fucks with you on the job.  I will protect all of your interests. And all that I ask for in return…'
 
 </section>
+<div>
+  <img class='center-inline-image small-width' src='https://lh6.googleusercontent.com/Nifcv9n4ctwkCZ0LPt7UGvJmEZtpG09ptBppyn857hFzSLpYK-yFl2cc3SEq8Rv5d35-Y0hMMEUHbZUllHTjrhZpAqIpBHRaIwp9jdrcH_Deud6HVJxSuSs26nBRYrR4lC6IRXRJ'>
 
-<img class='center-image small-width' src='https://lh6.googleusercontent.com/Nifcv9n4ctwkCZ0LPt7UGvJmEZtpG09ptBppyn857hFzSLpYK-yFl2cc3SEq8Rv5d35-Y0hMMEUHbZUllHTjrhZpAqIpBHRaIwp9jdrcH_Deud6HVJxSuSs26nBRYrR4lC6IRXRJ'>
-
-<img class='center-image small-width' src='https://lh3.googleusercontent.com/tkwZPui_wRLGV9bKCi6c8oWKvXK3tfQiEMnzReK32mTE3driYHqQgOvU8gsJSolCAws_JUG0bwnTLPxDlbL1y833mL7OXhE4EgC3fWafOH6TJJ5MwAoaDJBd0brvj58Xe5I0HEPF'>
-
+  <img class='center-inline-image small-width' src='https://lh3.googleusercontent.com/tkwZPui_wRLGV9bKCi6c8oWKvXK3tfQiEMnzReK32mTE3driYHqQgOvU8gsJSolCAws_JUG0bwnTLPxDlbL1y833mL7OXhE4EgC3fWafOH6TJJ5MwAoaDJBd0brvj58Xe5I0HEPF'>
+</div>
 <section class="center-text"> And now we’re right back to square one aren’t we… </section>
 
 In the Greek play, [Lysistrata](https://www.sparknotes.com/drama/lysistrata/summary/)...
