@@ -8,8 +8,6 @@ categories:
 
 <h1 class="center-text"> The End of Women </h1>
 
-## **The End of Women**
-
 The technological and social changes of the last 60 years have created extreme disruptions in the way men and women carry out the mating dance. The battle of the sexes has reached a fever pitch as we are exposed to more potential partners in a day than we historically were in a lifetime, and yet mostly people operate on an implicit model of sexually monogamous relationships leading toward marriage. Sexual conflict is inevitable as the battle over women’s bodies intensifies, and the battle among women for top men does too.
 
 ["patio11's Law": The software economy is bigger than you think, even when you take into account patio11's Law.](https://twitter.com/mmcgrana/status/1260250538299408387)
@@ -71,11 +69,11 @@ When men and women go on a date, we see the evolutionary arms race up close.
 In short-term mating men consistently desire more partner variety across cultures. In addition, men view many women as “above threshold” in attractiveness, but women tend to be attracted primarily to men in the top twentieth percentile[^2]. This gives women the upper hand in the sexual marketplace. Third, men are willing to lower their standards for casual sexual encounters.  A man who is an 8 will go to bed with a woman who is a 6 if it requires minimal investment. Men and women both seek partners 25% higher in mate value. When a woman reaches up in mate value, those men are willing to relax their standards in mate value if it is for short term casual sex, while the woman is most likely looking to secure a long term mate at the upper end of her mate-value range. “Why am I being pestered by guys I don’t care about, but the men I’m genuinely attracted to seem to show little interest in me? You’re an 8 who is chasing after 10s being pursued by 6s.”[^3]
 
 
+<div class="center">
+  <img class="center-inline-image small-width" src="https://lh5.googleusercontent.com/MVcUhCuvwhAsuNpOqOJVIUuqdcT06o0X-8IYoNlIaPg5DkxBwonafCD4pWOHAsnoJba-YJyM1o1KlZkoUd6jJlw8xz4gyCwbpKjv6dhJvKUhZiOJegCdLxJ9GCk8-Vu_kE8TjB4s">
 
-<img class="center-image small-size" src="https://lh5.googleusercontent.com/MVcUhCuvwhAsuNpOqOJVIUuqdcT06o0X-8IYoNlIaPg5DkxBwonafCD4pWOHAsnoJba-YJyM1o1KlZkoUd6jJlw8xz4gyCwbpKjv6dhJvKUhZiOJegCdLxJ9GCk8-Vu_kE8TjB4s">
-
-<img class="center-image small-size" src="https://lh4.googleusercontent.com/f7bZUhonh-s6ivlFeGynD6hRGZu1luDD7fw6qQc7Qqh4vpn7kN3OTk68H4ICzJBisl_AvZJ1IjTYuqXHP6EachKWkQUivbmFAA3FC07JSPYkxEHJFYot9ffmPf6Tbz2YG8JfRWPB">
-
+  <img class="center-inline-image small-width" src="https://lh4.googleusercontent.com/f7bZUhonh-s6ivlFeGynD6hRGZu1luDD7fw6qQc7Qqh4vpn7kN3OTk68H4ICzJBisl_AvZJ1IjTYuqXHP6EachKWkQUivbmFAA3FC07JSPYkxEHJFYot9ffmPf6Tbz2YG8JfRWPB">
+</div>
 
 Men can learn to effectively facilitate this experience of connection, and the men who are really good at dating do learn how to do this, which further alters the market. On top of the structural problems presented by OLD, when it comes to dating, most women have a [fixed mindset](https://en.wikipedia.org/wiki/Mindset#Fixed_and_growth_mindset): their dating outcomes are a result of fixed traits-they can’t change them. If you look at how women speak and behave, they assume little to no agency for their dating outcomes; they are passive consumers of what men offer. How they feel _is_ their reality. On a date, most women see their role as interpreting their own subjective experience...how did he make me _feel_? How did I _feel_ when I was with him? Rather than going on a date believing they have a role in _creating_ a connection, they go on dates to see if they _feel_ or felt a connection. If the date _feels _surface level, most women will “next” the guy because they are hoping to feel a deeper connection, they just don’t know how to create it, which favors those men who are good at small talk and spiking her emotions and related behaviors that lead to the feeling of connection (which is often distinct from real connection).
 
@@ -92,33 +90,6 @@ Attraction grows over time. The Spark is not a thing, and yet, women are becomin
 Typically, a woman will give you three dates to feel a spark. Three dates is roughly equal to 5 - 10 hours spent together. Most quality men can’t engineer attraction fast enough and so when women don’t feel a spark they move onto the next match. Ironically, these are typically the exact men who possess the qualities that make for the long term relationships women so desperately desire. [Women hate dating apps](https://www.newsweek.com/why-dating-apps-are-no-way-find-true-love-1565682): they install and uninstall them, speak about them like a second job, and cry on their friends shoulder because they’re stuck in another “situationship” with the proverbial alpha chad. They have a deluge of attractive men in their inboxes who are interested in short term mating, and often do so with the lure of long term mating. Unfortunately, dating apps are designed to be addictive, and so women take breaks from the apps, only to return and repeat the same cycle. Most humans are unable to observe their own patterns, and so women keep going on dates hoping to find the rare man who has learned to engineer attraction fast enough (PUA) to avoid being passed on for the next guy in her phone because she didn’t “feel a spark”. Paradoxically, it is the men who _can_ generate a spark that fast who mostly _won’t_ stick around, because those men _enjoy _the variety. They are the rare few who can create the spark women have been trained to fixate on.
 
 Women believe dating is about going on enough dates and waiting until they feel...something. They ask things like, “how do you know if you’re in love!?”, “how do you know if he’s ‘the one?’” which belies their belief that the key element in dating is the ability to recognize love, rather than create it. Women’s penchant for passivity in dating, combined with a self reinforcing feedback loop of preferences shaped by app dating, has created the conditions for a catastrophic outcome for the most empowered generation of women in history.
-
-
-
-nicola’s experience with girl dating is similar. she goes on a date, doesn’t understand that attraction and connection is a process created by the interaction between two people. so she goes home and checks in with her emotions and says, how did this person make me feel? she feels nothing because she constantly goes on interview style dates. very few people have ever reported that being interrogated made their pussies wet.
-
-one distinction where they try to work on themselves (via therapy), this seems to be the one place where women think they have agency.  they can change themselves. and yet they cannot see that they are agents and this could spill over into other areas of their life. if i don’t feel horny for my husband, i just don’t have sex with him. they’re not aware that the vast majority of women experience responsive sexual desire. they get turned on by having sex rather than feeling horny and then initiating sex (spontaneous desire which is typical of men)
-
-women will often say they’re discovering themselves, or talk about their journey. eat pray love was all the rage because it was the female dream. women try things, and observe how it makes them feel.  they don’t believe they can predict their states in the future, so they just subjectively report how different things affected them.  they don’t believe they can change the function that takes input -> output, all they can do is observe it.
-
-men would say, lift, become attractive
-
-women would say, learn to love your body, don’t change it
-
-In dating
-
-After TV every decade importance on looks growsI
-
--missing citation
-
-
-
-Describe the economics of onlyfans as changing the supply of women who can make more doing something valuable to society. It raises the minimum wage floor
-
-Having babies previously worked this way, work became better at some point be having a baby. Raised the floor on how good having a baby had to be for it to best work
-
-Another collective action problem
-
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes

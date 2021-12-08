@@ -2,9 +2,6 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-
-
-
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
@@ -13,6 +10,18 @@
 .page {
   margin: auto;
   float: none;
+}
+
+.center {
+  text-align:center;
+}
+
+.space-after {
+  margin: 0 0 1.3em;
+}
+
+.horizontal-line {
+  border-top: 3px solid grey;
 }
 
 .page__hero--overlay {
@@ -60,8 +69,8 @@
 }
 
 .indent-paragraph {
-  margin-left: 30px !important;
-  margin-right: 100px !important;
+  margin-left: 65px !important;
+  margin-right: 65px !important;
 }
 
 .feature__item {
