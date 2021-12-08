@@ -23,7 +23,7 @@ Right right.  No it was annoying as fuck...because if these women were serious y
 
   <img class='center-inline-image small-width' src='https://lh3.googleusercontent.com/tkwZPui_wRLGV9bKCi6c8oWKvXK3tfQiEMnzReK32mTE3driYHqQgOvU8gsJSolCAws_JUG0bwnTLPxDlbL1y833mL7OXhE4EgC3fWafOH6TJJ5MwAoaDJBd0brvj58Xe5I0HEPF'>
 </div>
-<section class="center-text"> And now we’re right back to square one aren’t we… </section>
+<p class="center-text"> And now we’re right back to square one aren’t we… </p>
 
 In the Greek play, [Lysistrata](https://www.sparknotes.com/drama/lysistrata/summary/)...
 
