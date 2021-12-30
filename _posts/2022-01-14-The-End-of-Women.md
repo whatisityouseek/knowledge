@@ -2,6 +2,7 @@
 title: "The End of Women"
 author_profile: false
 classes: wide
+date: 2022-01-31
 categories:
   - redpill
 ---

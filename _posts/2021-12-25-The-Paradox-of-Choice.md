@@ -2,6 +2,7 @@
 title: "The Paradox of Choice"
 author_profile: false
 classes: wide
+date: 2021-12-31
 categories:
   - redpill
 ---
