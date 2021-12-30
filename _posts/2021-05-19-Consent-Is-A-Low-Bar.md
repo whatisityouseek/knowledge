@@ -6,8 +6,6 @@ categories:
   - redpill
 ---
 
-<h1 class="center-text"> Consent Is a Low Bar </h1>
-
 Historically, in western societies, sex before marriage was rare: families and communities exerted significant pressure on a man to “do the right thing” and marry a woman if he knocked her up (think “shotgun wedding”).  This set of cultural practices existed because there _were_ things called “communities” and most sexual relations happened with people who grew up in the same place. Parents had significant sway over who their children, and especially their daughters, married.
 
 The organization of the western world changed radically with the invention and popularization of the birth control pill.  Young people flocked to cities, and women entered the workforce en masse.  [The birth control pill started the sexual revolultion and changed the default from “abstaining from sex” to “having sex, unless there is a good reason not to.](https://www.city-journal.org/html/policing-sexual-desire-15669.html?wallit_nosession=1)” We’re still dealing socially and culturally with the repercussions.

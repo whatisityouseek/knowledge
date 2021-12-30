@@ -6,8 +6,6 @@ categories:
   - redpill
 ---
 
-<h1 class="center-text"> The Paradox of Choice </h1>
-
 <section class="indent-paragraph" markdown="1">
 The feminist movement is one of the best illustrations of “Be careful what you wish for”.  The movement’s success created a paradox for itself: as women’s freedom of choice has expanded, it has done so by establishing the principle that to expand female choice, [women’s choices must be considered unassailable](https://www.theonion.com/women-now-empowered-by-everything-a-woman-does-1819566746) and thus even bad choices are valid and to be celebrated. This tautology: “a woman made the choice, therefore it must be a good one,” prevents the movement from self-regulating and allows many bad ideas and choices to metastasize.
 </section>

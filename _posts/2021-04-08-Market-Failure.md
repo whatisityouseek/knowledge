@@ -6,8 +6,6 @@ categories:
   - redpill
 ---
 
-<h1 class="center-text"> Market Failure in the Marriage Market </h1>
-
 **Disclaimer**: This essay asserts characteristics of men and women on average, which when looked at through the lens of markets, allows us to see the direction of forces on each group and predict their behavior.  No statements are true of all men or women at all times.
 
 If you’ve lived in a major city anytime in the last 30 years you’ve heard women asking “Where have all the good men gone?”  The marriage rate has been falling for 50 years, with the never married rate eclipsing the marriage rate for the first time around 2010.  Why are young people getting married at dramatically lower rates than their parents?  Despite 50 years of the feminist movement pushing womens equality, why do women feel increasing pressure from the “beauty” industry?  One school of thought is that feminism has not done enough to combat a white male patriarchal society that represses women.  An alternate perspective is that feminism has become a victim of its own success.  As technology reduced the cost and time of domestic labor, the feminist movement pushed for women to enter the workforce and grow the family unit’s resources. At the same time, zoning restrictions imposed in the 1970s have kept the growth rate of the cost of housing substantially above inflation, meaning that most dual-income gains have been absorbed by property owners.

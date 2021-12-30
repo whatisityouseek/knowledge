@@ -6,8 +6,6 @@ categories:
   - redpill
 ---
 
-<h1 class="center-text"> The Closer </h1>
-
 <section class="indent-paragraph" markdown="1">
 'I supported the #metoo movement but the whole time I thought that they way that they handled it was stupid. It was...it was white. They were doing shit like going to the Golden Globes, and all of ‘em would be like “Let’s go to the Golden Globes and wear black dresses to give these men a piece of our minds!” Bitch that’s not going to work! You think MLK is going to be like…” I want everybody to keep ridin’ the bus but wear matching outfits!” You got to get off the bus and walk!
 
