@@ -6,8 +6,6 @@ categories:
   - redpill
 ---
 
-<h1 class="center-text"> The End of Women </h1>
-
 The technological and social changes of the last 60 years have created extreme disruptions in the way men and women carry out the mating dance. The battle of the sexes has reached a fever pitch as we are exposed to more potential partners in a day than we historically were in a lifetime, and yet mostly people operate on an implicit model of sexually monogamous relationships leading toward marriage. Sexual conflict is inevitable as the battle over women’s bodies intensifies, and the battle among women for top men does too.
 
 ["patio11's Law": The software economy is bigger than you think, even when you take into account patio11's Law.](https://twitter.com/mmcgrana/status/1260250538299408387)
